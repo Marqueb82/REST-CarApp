@@ -15,6 +15,6 @@ adding new vehicle.
 
 - allows user to create new vehicle to add to vehicle list also creating vehicle link and link back to vehicle list
 
-![Screenshot](https://github.com/Marqueb82/REST-CarApp/blob/master/src/main/resources/car_3.png)
+![Screenshot](https://github.com/Marqueb82/REST-CarApp/blob/master/src/main/resources/car_2.png)
 
 
